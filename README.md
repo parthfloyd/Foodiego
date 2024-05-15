@@ -1,4 +1,4 @@
-# Foodie Go Application
+# Foodie Go Application - Parth Panchal & Sanket Shah
 ## We have the following screens
 - Dine In : Learn about nearby restaurants
 - Take out : Select items for delivery
